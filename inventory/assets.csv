@@ -1,0 +1,7 @@
+Varlik ID,Hostname,Cihaz Turu,Kullanici,Departman,Marka,Model,Seri Numarasi,IP Adresi,Durum,Alim Tarihi,Notlar
+BK-LPT-001,CLIENT01,Laptop,deniz.yilmaz,IT,LabVendor,Windows 11 Client,LAB-LPT-001,DHCP,Kullanimda,2026-01-10,Domain'e katilmis lab istemcisi
+BK-SRV-001,DC01,Server,,IT,LabVendor,Windows Server 2022,LAB-SRV-001,10.10.10.10,Kullanimda,2026-01-10,AD DS DNS DHCP GPO File Server
+BK-MON-001,BK-MON-001,Monitor,deniz.yilmaz,IT,LabVendor,24 inch,LAB-MON-001,,Kullanimda,2026-01-12,Ornek monitor varligi
+BK-PRN-001,BK-PRN-001,Printer,,Shared,LabVendor,Network Printer,LAB-PRN-001,10.10.10.50,Kullanimda,2026-01-15,Simule network printer
+BK-SW-001,BK-SW-001,Network Device,,IT,LabVendor,Virtual Switch,LAB-SW-001,10.10.10.1,Kullanimda,2026-01-10,Hyper-V internal switch host adapter
+

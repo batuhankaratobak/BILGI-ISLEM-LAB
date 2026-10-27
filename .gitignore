@@ -1,0 +1,13 @@
+.env
+*.iso
+*.vhd
+*.vhdx
+*.avhdx
+*.vmcx
+*.vmrs
+*.log
+Thumbs.db
+desktop.ini
+helpdesk/storage/
+screenshots/private/
+
