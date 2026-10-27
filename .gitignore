@@ -11,3 +11,22 @@ desktop.ini
 helpdesk/storage/
 screenshots/private/
 
+*.wbcat
+*.bkf
+*.bak
+*.dmp
+*.dump
+*.img
+*.wim
+*.vsv
+*.bin
+backup/output/
+backup/exports/
+backup/recovery-temp/
+recovery-temp/
+restore-temp/
+WindowsImageBackup/
+BKLAB-Backups/
+Hyper-V-Exports/
+**/Virtual Hard Disks/
+**/Virtual Machines/
